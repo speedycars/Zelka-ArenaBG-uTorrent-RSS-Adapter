@@ -1,0 +1,1 @@
+PATHTOPYTHON2\Scripts\pyinstaller.exe --onefile --noconsole rss.py
